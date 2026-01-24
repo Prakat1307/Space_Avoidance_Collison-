@@ -1,0 +1,56 @@
+============================================================
+DETAILED COLLISION RISK ANALYSIS
+============================================================
+
+TOP 50 HIGHEST RISK EVENTS:
+------------------------------------------------------------
+Rank 14267: ID=14266, Risk=99.0107%, High-Risk=YES
+Rank 14268: ID=14267, Risk=99.0107%, High-Risk=YES
+Rank 23339: ID=23338, Risk=97.0570%, High-Risk=YES
+Rank 11144: ID=11143, Risk=96.6479%, High-Risk=YES
+Rank 17721: ID=17720, Risk=95.2306%, High-Risk=YES
+Rank 17720: ID=17719, Risk=95.1880%, High-Risk=YES
+Rank 23340: ID=23339, Risk=95.1596%, High-Risk=YES
+Rank 23343: ID=23342, Risk=95.1591%, High-Risk=YES
+Rank 23342: ID=23341, Risk=95.1575%, High-Risk=YES
+Rank 23344: ID=23343, Risk=95.1575%, High-Risk=YES
+Rank 23341: ID=23340, Risk=95.1487%, High-Risk=YES
+Rank 17713: ID=17712, Risk=95.1195%, High-Risk=YES
+Rank 17716: ID=17715, Risk=95.0996%, High-Risk=YES
+Rank 17711: ID=17710, Risk=95.0943%, High-Risk=YES
+Rank 17712: ID=17711, Risk=95.0943%, High-Risk=YES
+Rank 14266: ID=14265, Risk=95.0155%, High-Risk=YES
+Rank 7010: ID= 7009, Risk=94.9726%, High-Risk=YES
+Rank 24351: ID=24350, Risk=94.9382%, High-Risk=YES
+Rank 19815: ID=19814, Risk=94.7400%, High-Risk=YES
+Rank 11147: ID=11146, Risk=94.6983%, High-Risk=YES
+Rank 17722: ID=17721, Risk=93.2347%, High-Risk=YES
+Rank 17719: ID=17718, Risk=93.2119%, High-Risk=YES
+Rank 17714: ID=17713, Risk=93.1513%, High-Risk=YES
+Rank 17715: ID=17714, Risk=93.1431%, High-Risk=YES
+Rank 14265: ID=14264, Risk=93.0353%, High-Risk=YES
+Rank 7009: ID= 7008, Risk=92.9604%, High-Risk=YES
+Rank 20328: ID=20327, Risk=92.9226%, High-Risk=YES
+Rank 7012: ID= 7011, Risk=92.8877%, High-Risk=YES
+Rank 12903: ID=12902, Risk=92.8363%, High-Risk=YES
+Rank 6084: ID= 6083, Risk=92.8230%, High-Risk=YES
+Rank 6085: ID= 6084, Risk=92.8230%, High-Risk=YES
+Rank 12902: ID=12901, Risk=92.8224%, High-Risk=YES
+Rank 9681: ID= 9680, Risk=92.6635%, High-Risk=YES
+Rank 9676: ID= 9675, Risk=92.6622%, High-Risk=YES
+Rank 9672: ID= 9671, Risk=92.6619%, High-Risk=YES
+Rank 9678: ID= 9677, Risk=92.6619%, High-Risk=YES
+Rank 9679: ID= 9678, Risk=92.6619%, High-Risk=YES
+Rank 15718: ID=15717, Risk=92.0302%, High-Risk=YES
+Rank 17717: ID=17716, Risk=91.2555%, High-Risk=YES
+Rank 17718: ID=17717, Risk=91.2555%, High-Risk=YES
+Rank 5060: ID= 5059, Risk=91.0871%, High-Risk=YES
+Rank 17708: ID=17707, Risk=91.0429%, High-Risk=YES
+Rank 17709: ID=17708, Risk=91.0429%, High-Risk=YES
+Rank 14264: ID=14263, Risk=91.0420%, High-Risk=YES
+Rank 20334: ID=20333, Risk=91.0174%, High-Risk=YES
+Rank 6287: ID= 6286, Risk=91.0171%, High-Risk=YES
+Rank 6286: ID= 6285, Risk=91.0150%, High-Risk=YES
+Rank 20325: ID=20324, Risk=90.9350%, High-Risk=YES
+Rank 20326: ID=20325, Risk=90.9350%, High-Risk=YES
+Rank 7013: ID= 7012, Risk=90.9347%, High-Risk=YES

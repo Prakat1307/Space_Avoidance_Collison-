@@ -1,0 +1,38 @@
+
+============================================================
+SPACE COLLISION AVOIDANCE SYSTEM - ANALYSIS REPORT
+============================================================
+
+Generated: 2025-10-06 13:01:22
+
+DATASET INFORMATION:
+-------------------
+Total Test Samples: 24,484
+Features Used: 2 numeric features
+Model: Random Forest Classifier
+Validation Accuracy: 99.75%
+
+PREDICTIONS SUMMARY:
+-------------------
+
+id:
+  Range: [0.000000, 24483.000000]
+  Mean: 12241.500000
+  Median: 12241.500000
+
+risk_probability:
+  Range: [0.000000, 0.990107]
+  Mean: 0.028881
+  Median: 0.000000
+
+high_risk:
+  Range: [0.000000, 1.000000]
+  Mean: 0.013846
+  Median: 0.000000
+
+============================================================
+NEXT STEPS:
+1. Review predictions in 'predictions_fixed.csv'
+2. Submit to Kaggle competition (if applicable)
+3. Fine-tune model for improved performance
+============================================================
